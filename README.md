@@ -1,5 +1,6 @@
 # kaggle_ventilator
-Kaggle competition project - ventilator pressure.
-Model uses LSTM layers to predict time series of pressures in ventilator.
+Kaggle competition notebook regarding time series prediction of ventilator pressure.
+
+Model uses LSTM layers.
 
 https://www.kaggle.com/c/ventilator-pressure-prediction
